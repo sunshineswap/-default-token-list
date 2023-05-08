@@ -7,7 +7,7 @@
     "patch": 1
   },
   "tags": {},
-  "logoURI": "",
+  "logoURI": "https://raw.githubusercontent.com/sunshineswap/default-token-list/main/SUN.png",
   "keywords": [
     "default"
   ],
@@ -18,7 +18,7 @@
       "symbol": "SS",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://bscscan.com/images/main/empty-token.png"
+      "logoURI": "https://raw.githubusercontent.com/sunshineswap/default-token-list/main/SUN.png"
     }
   ]
 }
