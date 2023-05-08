@@ -1,0 +1,24 @@
+{
+  "name": "Sunshineswap List",
+  "timestamp": "2023-01-10T00:30:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Sunshine",
+      "address": "0xc00F63929a4ED114d66fcb150706193bab1742e5",
+      "symbol": "SS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    }
+  ]
+}
