@@ -1,0 +1,24 @@
+{
+  "name": "Sunshineswap Testnet List",
+  "timestamp": "2023-01-10T00:30:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 2
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sunshineswap/default-token-list/main/SUN.png",
+  "keywords": [
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Sunshine",
+      "address": "0xC92324541c04D620a13579E8a9A5Be70c88fbdDA",
+      "symbol": "SS",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/sunshineswap/default-token-list/main/SUN.png"
+    }
+  ]
+}
